@@ -1,0 +1,44 @@
+{
+  "name": "grunt-nwup",
+  "description": "Creates update files for use with nwup, an NW.js application updater.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xqwzts/grunt-nwup",
+  "author": {
+    "name": "Victor Choueiri",
+    "email": "victor.oc@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xqwzts/grunt-nwup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xqwzts/grunt-nwup/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/xqwzts/grunt-nwup/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "echo 'no tests yet, soon'"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "nodewebkit",
+    "node-webkit",
+    "nwjs",
+    "nwup",
+    "update",
+    "updater"
+  ]
+}
